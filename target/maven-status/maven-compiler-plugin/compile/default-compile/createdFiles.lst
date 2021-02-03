@@ -1,0 +1,6 @@
+com\mycompany\entidades\Medico_.class
+com\mycompany\services\MedicoRest.class
+com\mycompany\session\MedicoFacade.class
+com\mycompany\services\ApplicationConfig.class
+com\mycompany\entidades\Medico.class
+com\mycompany\session\AbstractFacade.class
